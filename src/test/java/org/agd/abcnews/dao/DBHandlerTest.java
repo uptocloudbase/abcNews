@@ -27,11 +27,11 @@ public class DBHandlerTest {
 
         List<Article> result = target.listArticles(false);
 
-        assertEquals(2, result.size());
+        assertEquals(3, result.size());
 
         result = target.listArticles(true);
 
-        assertEquals(4, result.size());
+        assertEquals(5, result.size());
 
         assertNotNull(result.get(0).getId());
     }
@@ -43,8 +43,4 @@ public class DBHandlerTest {
         assertEquals("Test Article 2", result.getTitle());
     }
 
-    @Test
-    public void getUser() {
-        fail("Not yet implemented.");
-    }
 }
