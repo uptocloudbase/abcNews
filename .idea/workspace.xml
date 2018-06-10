@@ -1,0 +1,1127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="75b94af9-94e5-4f09-b3ad-314929c8779f" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="351">
+              <caret line="94" column="60" lean-forward="false" selection-start-line="94" selection-start-column="60" selection-end-line="94" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ArticleSummary.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/ArticleSummary.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="45" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebSecurityConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/WebSecurityConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="welcome.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WelcomeController.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/WelcomeController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="EditPageController.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/EditPageController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBHandler.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/dao/DBHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="132">
+              <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DBHandlerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/org/agd/abcnews/dao/DBHandlerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="JUnit4 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>org.agd.SpringBootWebApplication</find>
+      <find>Spring</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/SpringBootWebApplication.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/PublishStatus.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/Comment.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/User.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/agd/abcnews/entity/ArticleTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/ArticleSummary.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/src/test/java/org/agd/abcnews/service/ArticleServiceTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/Article.java" />
+        <option value="$PROJECT_DIR$/src/test/java/org/agd/abcnews/dao/DBHandlerTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/service/ArticleService.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/dao/DBHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/WebSecurityConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/EditPageController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/WelcomeController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editPage.jsp" />
+        <option value="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/viewPage.jsp" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="815" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="service" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="jsp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="abcnews" type="462c0819:PsiDirectoryNode" />
+              <item name="entity" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="abcNews" type="b2602c69:ProjectViewProjectNode" />
+              <item name="abcNews" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="org.agd.abcnews.service" />
+      <recent name="org.agd.abcnews.entity" />
+      <recent name="org.agd.abcnews.dao" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="org.agd.abcnews.entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SpringBootWebApplication">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="SpringBootWebApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.agd.abcnews.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="org.agd.abcnews.SpringBootWebApplication" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="abcnews" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration name="All in abcnews (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="abcnews" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="All in abcnews" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="abcnews" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DBHandlerTest.getArticle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.agd.abcnews.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="abcnews" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.agd.abcnews.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.agd.abcnews.dao.DBHandlerTest" />
+      <option name="METHOD_NAME" value="getArticle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="DBHandlerTest.listArticles" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="org.agd.abcnews.dao.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="abcnews" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="org.agd.abcnews.dao" />
+      <option name="MAIN_CLASS_NAME" value="org.agd.abcnews.dao.DBHandlerTest" />
+      <option name="METHOD_NAME" value="listArticles" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.DBHandlerTest.listArticles" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SpringBootWebApplication" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.All in abcnews" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.DBHandlerTest.getArticle" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.All in abcnews (1)" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.SpringBootWebApplication" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.All in abcnews (1)" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.DBHandlerTest.getArticle" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.DBHandlerTest.listArticles" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.All in abcnews" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75b94af9-94e5-4f09-b3ad-314929c8779f" name="Default" comment="" />
+      <created>1528403212163</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528403212163</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First commit">
+      <created>1528624434353</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1528624434353</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_in_abcnews - 2018.06.08 at 16h 09m 17s.xml">
+      <configuration name="All in abcnews" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_abcnews_(1) - 2018.06.10 at 10h 02m 07s.xml">
+      <configuration name="All in abcnews (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_getArticle - 2018.06.08 at 16h 50m 18s.xml">
+      <configuration name="DBHandlerTest.getArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_getArticle - 2018.06.08 at 16h 52m 55s.xml">
+      <configuration name="DBHandlerTest.getArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_getArticle - 2018.06.08 at 18h 52m 09s.xml">
+      <configuration name="DBHandlerTest.getArticle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_listArticles - 2018.06.08 at 16h 00m 00s.xml">
+      <configuration name="DBHandlerTest.listArticles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_listArticles - 2018.06.08 at 16h 02m 50s.xml">
+      <configuration name="DBHandlerTest.listArticles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_listArticles - 2018.06.08 at 16h 03m 35s.xml">
+      <configuration name="DBHandlerTest.listArticles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_listArticles - 2018.06.08 at 16h 33m 18s.xml">
+      <configuration name="DBHandlerTest.listArticles" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DBHandlerTest_listArticles - 2018.06.08 at 16h 33m 49s.xml">
+      <configuration name="DBHandlerTest.listArticles" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="815" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3270525" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32974428" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39973083" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="First commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/org/agd/abcnews/dao/DBHandlerTest.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/EditPageController.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>articleService.listArticles(false)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((Map)_id).get(&quot;$oid&quot;)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/abcnews.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="24" column="29" lean-forward="false" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+          <folding>
+            <element signature="e#360#361#0" expanded="false" />
+            <element signature="e#397#398#0" expanded="false" />
+            <element signature="e#420#421#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/agd/abcnews/entity/ArticleTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="27" column="0" lean-forward="true" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/PublishStatus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/static/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/agd/abcnews/service/ArticleServiceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="25" column="46" lean-forward="false" selection-start-line="25" selection-start-column="46" selection-end-line="25" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/Article.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="17" column="30" lean-forward="false" selection-start-line="17" selection-start-column="25" selection-end-line="17" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/Comment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="25" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/SpringBootWebApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/service/ArticleService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="14" column="24" lean-forward="false" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="75" column="0" lean-forward="false" selection-start-line="75" selection-start-column="0" selection-end-line="75" selection-end-column="0" />
+          <folding>
+            <marker date="1528403227360" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528403227360" expanded="false" signature="149:933" ph="..." />
+            <marker date="1528403227360" expanded="true" signature="1190:1197" ph="{}" />
+            <marker date="1528403227360" expanded="true" signature="1285:1879" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="1972:2445" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="2561:2658" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="2772:3555" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="3649:3857" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="3959:4230" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="4356:4621" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="4755:5077" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="5205:6597" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="6675:8300" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="8402:8537" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="8657:8803" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="8901:8982" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="9096:9562" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="9641:11348" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="11437:11908" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="11991:12199" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12260:12431" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12493:12790" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12882:12958" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="13069:13142" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="13262:13340" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="13480:15702" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/SimpleInstantiationStrategy.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="81" column="0" lean-forward="false" selection-start-line="81" selection-start-column="0" selection-end-line="81" selection-end-column="0" />
+          <folding>
+            <marker date="1528403227360" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528403227360" expanded="false" signature="165:732" ph="..." />
+            <marker date="1528403227360" expanded="true" signature="948:955" ph="{}" />
+            <marker date="1528403227360" expanded="false" signature="1016:1027" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="1078:1084" ph=" }" />
+            <marker date="1528403227360" expanded="true" signature="1175:2846" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="1931:2059" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="2176:2211" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="2959:3080" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="3214:3777" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="3366:3440" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="3556:3579" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="3927:4048" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="4203:6333" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="4320:4394" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="4519:4542" ph="}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/ConstructorResolver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="206" column="0" lean-forward="false" selection-start-line="206" selection-start-column="0" selection-end-line="206" selection-end-column="0" />
+          <folding>
+            <marker date="1528403227360" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528403227360" expanded="false" signature="165:1894" ph="..." />
+            <marker date="1528403227360" expanded="false" signature="2200:2211" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="2242:2248" ph=" }" />
+            <marker date="1528403227360" expanded="true" signature="2399:10264" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="9470:9544" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="9751:9774" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="10337:11618" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="11720:12247" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="11832:11906" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="12060:12079" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="12378:23588" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="22649:22723" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="22945:22968" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="23766:26001" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="26293:30516" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="30666:32673" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="32759:33176" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="33325:33883" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="33967:34233" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="34289:35026" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="34338:34349" ph="{}" />
+            <marker date="1528403227360" expanded="true" signature="34433:35020" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="35077:35138" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="35121:35132" ph="{}" />
+            <marker date="1528403227360" expanded="true" signature="35181:37300" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="35408:35571" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="35619:35746" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="35814:36130" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="36197:36685" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="36777:37294" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/4.3.4.RELEASE/spring-beans-4.3.4.RELEASE.jar!/org/springframework/beans/factory/support/AbstractAutowireCapableBeanFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="764" column="0" lean-forward="false" selection-start-line="764" selection-start-column="0" selection-end-line="764" selection-end-column="0" />
+          <folding>
+            <marker date="1528403227360" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1528403227360" expanded="false" signature="165:3356" ph="..." />
+            <marker date="1528403227360" expanded="true" signature="4033:4746" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="4825:4902" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="4990:5057" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="5121:5132" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="5166:5172" ph=" }" />
+            <marker date="1528403227360" expanded="true" signature="5266:5337" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="5405:5416" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="5452:5458" ph=" }" />
+            <marker date="1528403227360" expanded="true" signature="5536:5607" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="5703:5792" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="5845:5856" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="5894:5900" ph=" }" />
+            <marker date="1528403227360" expanded="false" signature="5957:5968" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="6010:6016" ph=" }" />
+            <marker date="1528403227360" expanded="true" signature="6094:6727" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="6799:7068" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="7120:7510" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="7604:8453" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="8573:8683" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="8799:9011" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="9125:10162" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="9592:9666" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="9853:9876" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="10289:10807" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="10909:11196" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="11269:11362" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="11486:11912" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12035:12460" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12511:12641" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="12760:14164" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="14297:18594" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="15745:15840" ph="getObject() → {" />
+            <marker date="1528403227360" expanded="false" signature="15964:15983" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="18699:19647" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="19756:20217" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="20330:24701" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="24789:26693" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="24812:24896" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="24871:24886" ph="{}" />
+            <marker date="1528403227360" expanded="false" signature="25522:25604" ph="doWith(method) → {" />
+            <marker date="1528403227360" expanded="false" signature="25921:25948" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="26792:27573" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="27679:28906" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="29015:30066" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="30187:30624" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="30715:31410" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="31513:32079" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="32182:33772" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="33908:34633" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="34730:35642" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="34895:34969" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="35153:35176" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="35764:35878" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="36014:36125" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="36216:39375" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="39499:40451" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="40575:42619" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="42719:43349" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="43461:44031" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="44128:44568" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="44645:44860" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="45028:45824" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="45938:49555" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="49671:50094" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="50198:51290" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="50293:50363" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="50505:50524" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="51358:51830" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="51946:53314" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="52425:52529" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="52666:52693" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="53435:55640" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="54499:54599" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="54721:54744" ph="}" />
+            <marker date="1528403227360" expanded="false" signature="54820:54924" ph="run() → {" />
+            <marker date="1528403227360" expanded="false" signature="55039:55066" ph="}" />
+            <marker date="1528403227360" expanded="true" signature="55728:55817" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="55871:55975" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="56066:56313" ph="{...}" />
+            <marker date="1528403227360" expanded="true" signature="56166:56227" ph="{...}" />
+            <marker date="1528403227360" expanded="false" signature="56270:56285" ph=" { " />
+            <marker date="1528403227360" expanded="false" signature="56297:56307" ph=" }" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/org/agd/abcnews/dao/DBHandlerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/img/editor-img.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/dao/DBHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/WelcomeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="29" column="0" lean-forward="false" selection-start-line="29" selection-start-column="0" selection-end-line="29" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/WebSecurityConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="26" column="28" lean-forward="false" selection-start-line="26" selection-start-column="28" selection-end-line="26" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="94" column="60" lean-forward="false" selection-start-line="94" selection-start-column="60" selection-end-line="94" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/entity/ArticleSummary.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="45" lean-forward="false" selection-start-line="8" selection-start-column="32" selection-end-line="8" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/welcome.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="27" column="40" lean-forward="false" selection-start-line="27" selection-start-column="40" selection-end-line="27" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/viewPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="183">
+          <caret line="26" column="64" lean-forward="false" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/editPage.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="131">
+          <caret line="26" column="64" lean-forward="false" selection-start-line="26" selection-start-column="64" selection-end-line="26" selection-end-column="64" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/org/agd/abcnews/controllers/EditPageController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
